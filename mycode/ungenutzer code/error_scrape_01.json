@@ -1,0 +1,90 @@
+ERROR Scraper
+regart: HRB
+regnum: 10
+regricht: Stuttgart
+Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00F5ACD3+2075859]
+	Ordinal0 [0x00EEEE61+1633889]
+	Ordinal0 [0x00DEB7BD+571325]
+	Ordinal0 [0x00E1AC2F+764975]
+	Ordinal0 [0x00E1AE1B+765467]
+	Ordinal0 [0x00E4D0F2+970994]
+	Ordinal0 [0x00E37364+881508]
+	Ordinal0 [0x00E4B56A+963946]
+	Ordinal0 [0x00E37136+880950]
+	Ordinal0 [0x00E0FEFD+720637]
+	Ordinal0 [0x00E10F3F+724799]
+	GetHandleVerifier [0x0120EED2+2769538]
+	GetHandleVerifier [0x01200D95+2711877]
+	GetHandleVerifier [0x00FEA03A+521194]
+	GetHandleVerifier [0x00FE8DA0+516432]
+	Ordinal0 [0x00EF682C+1665068]
+	Ordinal0 [0x00EFB128+1683752]
+	Ordinal0 [0x00EFB215+1683989]
+	Ordinal0 [0x00F06484+1729668]
+	BaseThreadInitThunk [0x76B46939+25]
+	RtlGetFullPathName_UEx [0x77CF8FD2+1218]
+	RtlGetFullPathName_UEx [0x77CF8F9D+1165]
+
+ERROR Scraper
+regart: HRB
+regnum: 28 163
+regricht: Frankfurt am Main
+Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00F5ACD3+2075859]
+	Ordinal0 [0x00EEEE61+1633889]
+	Ordinal0 [0x00DEB7BD+571325]
+	Ordinal0 [0x00E1AC2F+764975]
+	Ordinal0 [0x00E1AE1B+765467]
+	Ordinal0 [0x00E4D0F2+970994]
+	Ordinal0 [0x00E37364+881508]
+	Ordinal0 [0x00E4B56A+963946]
+	Ordinal0 [0x00E37136+880950]
+	Ordinal0 [0x00E0FEFD+720637]
+	Ordinal0 [0x00E10F3F+724799]
+	GetHandleVerifier [0x0120EED2+2769538]
+	GetHandleVerifier [0x01200D95+2711877]
+	GetHandleVerifier [0x00FEA03A+521194]
+	GetHandleVerifier [0x00FE8DA0+516432]
+	Ordinal0 [0x00EF682C+1665068]
+	Ordinal0 [0x00EFB128+1683752]
+	Ordinal0 [0x00EFB215+1683989]
+	Ordinal0 [0x00F06484+1729668]
+	BaseThreadInitThunk [0x76B46939+25]
+	RtlGetFullPathName_UEx [0x77CF8FD2+1218]
+	RtlGetFullPathName_UEx [0x77CF8F9D+1165]
+
+ERROR Scraper
+regart: HRB
+regnum: 30640
+regricht: Frankfurt am Main
+Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00F5ACD3+2075859]
+	Ordinal0 [0x00EEEE61+1633889]
+	Ordinal0 [0x00DEB7BD+571325]
+	Ordinal0 [0x00E1AC2F+764975]
+	Ordinal0 [0x00E1AE1B+765467]
+	Ordinal0 [0x00E4D0F2+970994]
+	Ordinal0 [0x00E37364+881508]
+	Ordinal0 [0x00E4B56A+963946]
+	Ordinal0 [0x00E37136+880950]
+	Ordinal0 [0x00E0FEFD+720637]
+	Ordinal0 [0x00E10F3F+724799]
+	GetHandleVerifier [0x0120EED2+2769538]
+	GetHandleVerifier [0x01200D95+2711877]
+	GetHandleVerifier [0x00FEA03A+521194]
+	GetHandleVerifier [0x00FE8DA0+516432]
+	Ordinal0 [0x00EF682C+1665068]
+	Ordinal0 [0x00EFB128+1683752]
+	Ordinal0 [0x00EFB215+1683989]
+	Ordinal0 [0x00F06484+1729668]
+	BaseThreadInitThunk [0x76B46939+25]
+	RtlGetFullPathName_UEx [0x77CF8FD2+1218]
+	RtlGetFullPathName_UEx [0x77CF8F9D+1165]
+
