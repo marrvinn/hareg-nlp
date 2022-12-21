@@ -1,6 +1,7 @@
 # Analyse des Handelsregister mit NLP
 
-Handelsregister bezeichnet einen lokalen git clone, welchen ich nicht auf GitHub pushen darf. Hier müsste ich eine Fork erstellen.
+Handelsregister bezeichnet einen lokalen git clone, welchen ich nicht auf GitHub pushen darf.
+Hier müsste ich eine Fork erstellen.
 
 mycode bezeichnet den Ordner mit dem genutzten, lokal in VS-Code erstellten Code.
 
